@@ -1,8 +1,9 @@
 ---
-title: "Quarto"
+title: "Fan Peng's website"
 ---
 
-This is a Quarto website.
+Welcome to my website
+My name is Fan. I am a student at the University of Toronto with two majors, math and statistics. It is my first time. This was my first encounter with the R language, and the process of completing this assignment took me a lot of time and was done in a hurry.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
